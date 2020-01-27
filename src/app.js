@@ -87,7 +87,6 @@ app.get('/products', (request, response) => {
     response.send({
         products: []
     })
-
 })
 
 
